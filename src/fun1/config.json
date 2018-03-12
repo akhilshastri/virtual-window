@@ -1,0 +1,5 @@
+{
+  "libs":[
+    { "id":"custom-jquery", "src":["jquery"]}
+  ]
+}
